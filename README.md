@@ -7,7 +7,7 @@
  #### **Utilitários**
  - Editor: Visual Studio Code
  - Teste de API: Postman
- - Banco de dados: MongoDB
+ - Banco de dados: MongoDB (https://cloud.mongodb.com/)
  
  ## **:book: COMO UTILIZAR**
  
